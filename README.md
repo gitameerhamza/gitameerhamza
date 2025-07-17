@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
-- Final-year Computer Science student.
+- Computer Science Graduate
 - Strong in C++, Java, and Flutter app development.
 - Passionate about mobile apps, automation, and building real-world projects.
 - Currently working on my final year project **LifeSaver** – an emergency assistance app.
