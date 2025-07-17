@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Ameer Hamza 👋
 
-<!--
-**gitameerhamza/gitameerhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Final-year Computer Science student.
+- Strong in C++, Java, and Flutter app development.
+- Passionate about mobile apps, automation, and building real-world projects.
+- Currently working on my final year project **LifeSaver** – an emergency assistance app.
+- Exploring DevOps, backend systems, and machine learning in free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- 💻 Languages: C++, Java, Dart, Python, JavaScript
+- 📱 Frameworks: Flutter, JavaFX
+- 🌐 Web: HTML, CSS, React (basic), Node.js (basic)
+- 🔧 Tools: Firebase, Git/GitHub, VS Code, Android Studio, Jupyter Notebook
+
+## 📱 Notable Projects
+- **LifeSaver App** – Emergency response app (FYP)
+- **Weather App (Flutter)** – Fetches live data from OpenWeather API
+- **Library Management System** – JavaFX desktop app
+- **Hotel Management System** – OOP-based C++ project
+- **Attendance Management System** – C++ console app
+
+## 📫 Connect With Me
+- Email: ameerhamza.codes@gmail.com
+- LinkedIn: [Ameer Hamza](https://linkedin.com/in/ameerhamzaw2)
+
+## 📈 GitHub Stats
+![Ameer Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitameerhamza&show_icons=true&theme=radical)
