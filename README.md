@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
 ## 🏅 Certifications & Badges
 
-[![Badge 1](https://images.credly.com/images/80180606-58a6-4b71-a3e4-26cc84951262.png)](https://www.credly.com/badges/80180606-58a6-4b71-a3e4-26cc84951262/public_url)
+[![Badge 1](microsoft-office-specialist-word-office-2016.png)](https://www.credly.com/badges/80180606-58a6-4b71-a3e4-26cc84951262/public_url)
 [![Badge 2](https://images.credly.com/images/be988be4-f5d4-4ce0-a463-f889eba7fb52.png)](https://www.credly.com/badges/be988be4-f5d4-4ce0-a463-f889eba7fb52/public_url)
 [![Badge 3](https://images.credly.com/images/f869330d-e85e-49f3-a156-c0735ef7dfb5.png)](https://www.credly.com/badges/f869330d-e85e-49f3-a156-c0735ef7dfb5/public_url)
 [![Badge 4](https://images.credly.com/images/09b28e2c-bcff-4d9f-9732-4784e7af3c6e.png)](https://www.credly.com/badges/09b28e2c-bcff-4d9f-9732-4784e7af3c6e/public_url)
