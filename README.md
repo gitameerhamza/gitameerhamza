@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 [![Badge 2](https://images.credly.com/images/be988be4-f5d4-4ce0-a463-f889eba7fb52.png)](https://www.credly.com/badges/be988be4-f5d4-4ce0-a463-f889eba7fb52/public_url)
 [![Badge 3](https://images.credly.com/images/f869330d-e85e-49f3-a156-c0735ef7dfb5.png)](https://www.credly.com/badges/f869330d-e85e-49f3-a156-c0735ef7dfb5/public_url)
 [![Badge 4](https://images.credly.com/images/09b28e2c-bcff-4d9f-9732-4784e7af3c6e.png)](https://www.credly.com/badges/09b28e2c-bcff-4d9f-9732-4784e7af3c6e/public_url)
-[![Badge 5](Create ML Models with BigQuery ML Skill Badge.png)](https://www.credly.com/badges/04999120-3c0a-45f1-9fe0-d2d7252b5f15/public_url)
+[![Badge 5](Create_ML_Models_with_BigQuery_ML_Skill_Badge.png)](https://www.credly.com/badges/04999120-3c0a-45f1-9fe0-d2d7252b5f15/public_url)
 
 ## 📫 Connect With Me
 - Email: ameerhamza.codes@gmail.com
