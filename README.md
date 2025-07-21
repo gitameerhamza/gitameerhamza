@@ -17,6 +17,7 @@ Welcome to my GitHub profile!
 
 ## 📱 Notable Projects
 - **LifeSaver App** – Emergency response app (FYP)
+- **Car Bidding App** - App for Buy, Sell and Bid on Cars with Admin Panel
 - **Weather App (Flutter)** – Fetches live data from OpenWeather API
 - **Library Management System** – JavaFX desktop app
 - **Hotel Management System** – OOP-based C++ project
