@@ -1,6 +1,5 @@
 # Hi there, I'm Ameer Hamza 👋
 
-Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - Computer Science Graduate
@@ -28,6 +27,3 @@ Welcome to my GitHub profile!
 ## 📫 Connect With Me
 - Email: ameerhamza.codes@gmail.com
 - LinkedIn: [Ameer Hamza](https://linkedin.com/in/ameerhamzaw2)
-
-## 📈 GitHub Stats
-![Ameer Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitameerhamza&show_icons=true&theme=radical)
