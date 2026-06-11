@@ -9,7 +9,7 @@
 - Exploring DevOps, backend systems, and machine learning in free time.
 
 ## 🛠️ Technologies & Tools
-- 💻 Languages: C++, Java, Dart, Python, JavaScript
+- 💻 Languages: C++, Java, Dart, Python
 - 📱 Frameworks: Flutter, JavaFX
 - 🌐 Web: HTML, CSS, React (basic), Node.js (basic)
 - 🔧 Tools: Firebase, Git/GitHub, VS Code, Android Studio, Jupyter Notebook
